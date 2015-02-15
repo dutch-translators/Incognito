@@ -26,6 +26,6 @@ $lang = array_merge($lang, array(
 		'ACP_INCOGNITO'					=> 'Instellingen',
 		'ACP_INCOGNITO_GOODBYE'			=> 'Activeer Anoniem plaatsen?',
 		'ACP_INCOGNITO_SETTING_SAVED'	=> 'Instellingen zijn succesvol opgeslagen!',
-		'ACP_INCOGNITO_NAME'			=> 'Gebruikersnaam weergeven',
-		'ACP_INCOGNITO_NAME_EXPLAIN'	=> 'Vul de gebruikersnaam in die je bij anonieme berichten wilt gebruiken. Als je deze optie leeg laat wordt de standaard waarde gebruikt.',
+		'ACP_INCOGNITO_NAME'			=> 'Gast-gebruikersnaam',
+		'ACP_INCOGNITO_NAME_EXPLAIN'	=> 'Vul de gast-gebruikersnaam in die je bij anonieme berichten wilt gebruiken. Als je deze optie leeg laat worden de berichten onder de naam "gast" geplaatst'.',
 ));
